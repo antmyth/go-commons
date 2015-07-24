@@ -1,0 +1,11 @@
+products:
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> target/classes/com/nature/hub/gotest/common/SomeCommonClass$.class
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> target/classes/com/nature/hub/gotest/common/SomeCommonClass.class
+binary dependencies:
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> /Users/antonio.nascimento/.m2/repository/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> com.nature.hub.gotest.common.SomeCommonClass
+   src/main/scala/com/nature/hub/gotest/common/SomeCommonClass.scala -> com.nature.hub.gotest.common.SomeCommonClass$
