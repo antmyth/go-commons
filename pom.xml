@@ -4,7 +4,7 @@
 
     <groupId>com.nature.hub</groupId>
     <artifactId>go-commons</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <packaging>jar</packaging>
     <name>HUB Common components</name>
     <description>HUB common components</description>
@@ -53,7 +53,7 @@
     </repositories>
     <scm>
         <developerConnection>scm:git:git@github.com:antmyth/go-commons.git</developerConnection>
-        <tag>go-commons-0.1</tag>
+        <tag>my-proj-null</tag>
     </scm>
     <build>
         <plugins>
