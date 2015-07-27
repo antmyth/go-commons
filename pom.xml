@@ -53,10 +53,10 @@
             <layout>default</layout>
         </repository>
     </repositories>
-    <!--<scm>-->
-    <!--<developerConnection>scm:git:git@github.com:nature/hub-commons.git</developerConnection>-->
-    <!--<tag>HEAD</tag>-->
-    <!--</scm>-->
+    <scm>
+    <developerConnection>scm:git:git@github.com:antmyth/go-commons.git</developerConnection>
+    <tag>HEAD</tag>
+    </scm>
     <build>
         <plugins>
             <plugin>
