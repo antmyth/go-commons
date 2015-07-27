@@ -4,7 +4,7 @@
 
     <groupId>com.nature.hub</groupId>
     <artifactId>go-commons</artifactId>
-    <version>1.0.null</version>
+    <version>1.0-SNAPHOT</version>
     <packaging>jar</packaging>
     <name>HUB Common components</name>
     <description>HUB common components</description>
