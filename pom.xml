@@ -52,8 +52,9 @@
         </repository>
     </repositories>
     <scm>
-    <developerConnection>scm:git:git@github.com:antmyth/go-commons.git</developerConnection>
-    <tag>go-commons-0.1</tag>
+        <developerConnection>scm:git:https://github.com/antmyth/go-commons.git</developerConnection>
+
+        <tag>go-commons-0.1</tag>
     </scm>
     <build>
         <plugins>
